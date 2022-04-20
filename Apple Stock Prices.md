@@ -1,13 +1,3 @@
----
-header:
-  overlay_image: /assets/images/sql_pandas/sql_pandas.jpg
-  caption: "Photo credit: [**casparrubin**](https://unsplash.com)"
-permalink: /portfolio/Sql_Pandas_EDA/
-date: 2021-04-13
-toc: true
-toc_label: "Contents"
----
-
 # APPLE STOCK PRICES ANALYSIS USING SQL AND PANDAS
 
 Here we are going to explore and manipulate the Apple stock dataset. The data was sourced from Google finance in January of 2014.There is one row for each day as indicated in the date field.
